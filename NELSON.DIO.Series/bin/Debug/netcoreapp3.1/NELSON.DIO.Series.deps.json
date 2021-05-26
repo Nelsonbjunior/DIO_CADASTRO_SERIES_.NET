@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NELSON.DIO.Series/1.0.0": {
+        "runtime": {
+          "NELSON.DIO.Series.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NELSON.DIO.Series/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
